@@ -1,9 +1,6 @@
 # Threat_Hunting
 ## Collection of useful resources for Threat Hunting
 
-### Thanks to
-- [Mohammad Ghanabri (threat-hunting)](https://github.com/threat-hunting)
-
 ## Tools
 ### MITRE
 - [MITRE ATT&CK™](https://attack.mitre.org/): MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
@@ -24,7 +21,6 @@
 - [Google's GRR](https://github.com/google/grr): GRR Rapid Response: remote live forensics for incident response
 - [PcapXray](https://github.com/Srinivas11789/PcapXray): A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 
-
 ### OSquery
 - [osquery](https://osquery.io/): osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework.Available for Linux, macOS, Windows and FreeBSD.
 - [Palantir osquery Configuration](https://github.com/palantir/osquery-configuration): A repository for using osquery for incident detection and response
@@ -34,7 +30,6 @@
 ### Fingerprint
 - [HASSH](https://github.com/salesforce/hassh): HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
 - [JA3](https://github.com/salesforce/ja3): JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
-
 
 ### Hunting Tools
 - [HELK](https://github.com/Cyb3rWard0g/HELK): A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.
