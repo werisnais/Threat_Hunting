@@ -1,7 +1,6 @@
 # Threat_Hunting
 ## Collection of useful resources for Threat Hunting
 
-## Tools
 ### MITRE
 - [MITRE ATT&CK™](https://attack.mitre.org/): MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
