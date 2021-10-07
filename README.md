@@ -1,6 +1,13 @@
 # Threat_Hunting
 ## Collection of useful resources for Threat Hunting
 
+### Analysis
+- [ANY.RUN](https://app.any.run/) - Interactive Malware Analysis
+- [Joe Sandbox](https://www.joesandbox.com/#windows) - Automated Malware Analysis
+- [Hybrid Analysis](https://hybrid-analysis.com/) - Free Malware Analysis powered by Falcon
+- [Urlscan.io](https://urlscan.io/) - A sandbox for the web
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
+
 ### MITRE
 - [MITRE ATT&CK™](https://attack.mitre.org/): MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
@@ -16,13 +23,6 @@
 - [sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules
 - [Sysmon Threat Intelligence Configuration](https://github.com/ion-storm/sysmon-config): Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
 
-### Analysis
-- [ANY.RUN](https://app.any.run/) - Interactive Malware Analysis
-- [Joe Sandbox](https://www.joesandbox.com/#windows) - Automated Malware Analysis
-- [Hybrid Analysis](https://hybrid-analysis.com/) - Free Malware Analysis powered by Falcon
-- [Urlscan.io](https://urlscan.io/) - A sandbox for the web
-- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
--  
 ### Incident Response
 - [Google's GRR](https://github.com/google/grr): GRR Rapid Response: remote live forensics for incident response
 - [PcapXray](https://github.com/Srinivas11789/PcapXray): A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
